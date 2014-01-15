@@ -2,7 +2,6 @@
 # 
 # Database Scan Script 
 # Author: Hrishikesh Mishra
-# Copyright: Fabfurnish @2014
 #
 
 MYSQL_USER='<mysql_user>'
